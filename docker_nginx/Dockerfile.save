@@ -1,0 +1,6 @@
+FROM ngin
+x
+
+COPY ./html /usr/share/nginx/html
+
+EXPOSE 80 
